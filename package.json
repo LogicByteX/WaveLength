@@ -10,8 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@google/generative-ai": "^0.17.0",
+    "dotenv": "^16.4.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-icons": "^5.3.0",
     "react-speech-recognition": "^3.10.0",
     "regenerator-runtime": "^0.14.1"
   },
@@ -26,3 +31,7 @@
     "vite": "^5.3.4"
   }
 }
+
+
+ 
+
